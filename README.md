@@ -12,10 +12,12 @@ With XCode 6 it is possible to build custom interface and design without restart
     * topCornersRadius - setup corners radius, top corners
     * bottomCornersRadius - setup corners radius, bottom corners 
     * placeholderColor - setup color of placeholder
+
 2. CustomView (custom UIView)
     * cornerRadius - setup corner radius
     * borderWidth - setup border width
     * borderColor - setup border color 
+
 3. extension UIView (applied for all UIViews - should be incomment first)
     * cornerRadius - setup corner radius
     * borderWidth - setup border width
